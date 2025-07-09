@@ -56,5 +56,5 @@ Imagine you're sending an email (using SMTP) with an attachment (using FTP) over
 
 The recipient's email server receives and processes the data in the reverse order until the email is presented to the recipient in their email client.
 
-![[OSI MODEL.png]]
-![[OSI MODEL Example.png]]
+![OSI MODEL](OSI%20MODEL.png)
+![OSI MODEL Example](OSI%20MODEL%20Example.png)

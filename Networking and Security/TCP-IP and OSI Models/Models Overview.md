@@ -1,6 +1,6 @@
-![[TCP-IP and OSI models.jpg]]
+![TCP-IP and OSI models](TCP-IP%20and%20OSI%20models.jpg)
 
-[[Open Systems Interconnection (OSI)]] Model
+[Open Systems Interconnection (OSI)](Open%20Systems%20Interconnection%20(OSI).md) Model
 
 The OSI model is a conceptual framework that standardizes the functions of a communication system or network into seven distinct layers. Each layer is responsible for specific tasks related to data communication, and they build upon each other to facilitate end-to-end communication.
 
@@ -19,7 +19,7 @@ The OSI model is a conceptual framework that standardizes the functions of a com
 7. **Application Layer:** Provides application services directly to users and supports network services such as email, file transfer, and remote access.
     
 
-**[[TCP-IP]] Model (Transmission Control Protocol/Internet Protocol):**
+**[TCP-IP](TCP-IP.md) Model (Transmission Control Protocol/Internet Protocol):**
 
 The TCP/IP model is a practical, four-layer framework that serves as the basis for the internet and most modern networking protocols. While it's often compared to the OSI model, the TCP/IP model is more closely aligned with real-world networking implementations.
 

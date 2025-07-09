@@ -1,4 +1,4 @@
-![[Pasted image 20230812171613.png]]
+![Pasted image 20230812171613](../Images/Pasted%20image%2020230812171613.png)
 - **Switch Basics:**
     
     - A switch is a networking device that operates at the data link layer (Layer 2) of the OSI model.

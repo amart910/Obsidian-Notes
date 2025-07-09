@@ -18,7 +18,7 @@ As the network administrator of a sprawling office complex, your challenge is to
     
 6. **Enhanced Authorization:** 802.1X can be used to enforce policies beyond basic authentication. For example, you can check the user's device for updated antivirus software or adherence to corporate standards. If the device doesn't meet criteria, it might get limited network access for necessary updates.
 
-![[Pasted image 20230816154543.png]]
+![Pasted image 20230816154543](../Images/Pasted%20image%2020230816154543.png)
     
 
 **Benefits of 802.1X:**

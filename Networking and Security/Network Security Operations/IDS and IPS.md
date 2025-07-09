@@ -1,4 +1,4 @@
-![[Pasted image 20230819115442.png]]**Intrusion Detection and Prevention Systems (IDS/IPS): Overview**
+![Pasted image 20230819115442](../Images/Pasted%20image%2020230819115442.png)**Intrusion Detection and Prevention Systems (IDS/IPS): Overview**
 
 - Both IDS and IPS are advanced security solutions that detect malicious traffic based on known behaviors and payload signatures.
 - **IDS** monitors the network for threats, while **IPS** intercepts and blocks threats.

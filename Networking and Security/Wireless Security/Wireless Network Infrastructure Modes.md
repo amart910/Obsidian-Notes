@@ -2,7 +2,7 @@
 
 **Ad-hoc Mode:** In ad-hoc mode, wireless devices communicate directly with each other in a peer-to-peer manner without involving a central Wireless Access Point (WAP). This mode is less common in typical homes or offices but has specific use cases.
 
-![[Pasted image 20230816154329.png]]
+![Pasted image 20230816154329](../Images/Pasted%20image%2020230816154329.png)
 
 **Use Cases of Ad-hoc Mode:**
 
@@ -21,7 +21,7 @@
     
 
 **Infrastructure Mode Diagram:** In infrastructure mode, wireless devices communicate with the network and the internet through a WAP or wireless router. Clients (wireless devices) are connected to the network infrastructure via these access points.
-![[Pasted image 20230816154341.png]]
+![Pasted image 20230816154341](../Images/Pasted%20image%2020230816154341.png)
 
 **In Summary:**
 

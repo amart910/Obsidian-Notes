@@ -1,9 +1,9 @@
-![[Pasted image 20230812144938.png]]
+![Pasted image 20230812144938](../Images/Pasted%20image%2020230812144938.png)
 - **Modem Basics:**
     - "Modem" is short for "modulator-demodulator."
     - It's a hardware device that converts digital signals from a computer or network device into analog signals for transmission over telephone lines or other communication mediums.
     - It also converts incoming analog signals back into digital signals for the receiving device.
-    ![[Pasted image 20230812165834.png]]
+    ![Pasted image 20230812165834](../Images/Pasted%20image%2020230812165834.png)
 - **Types of Modems:**
     - **Dial-up Modems:**
         - Used in the past for connecting to the internet over standard telephone lines.
@@ -14,20 +14,20 @@
         - Used for high-speed internet access over existing telephone lines.
         - Provides both data and voice services simultaneously.
         - Offers faster speeds than dial-up modems, with variations like ADSL, VDSL, and more.
-        ![[Pasted image 20230812145413.png]]
+        ![Pasted image 20230812145413](../Images/Pasted%20image%2020230812145413.png)
     - **Cable Modems:**
         - Used for high-speed internet access over cable TV lines.
         - Delivers faster speeds compared to DSL, with shared bandwidth among users in the same area.
-        ![[Pasted image 20230812145513.png]]
+        ![Pasted image 20230812145513](../Images/Pasted%20image%2020230812145513.png)
     - **Fiber Optic Modems:**
         - Used in fiber-optic networks to transmit data using light signals.
         - Offers very high data rates and is often used for broadband internet and high-speed data connections.
-        ![[Pasted image 20230812145954.png]]
+        ![Pasted image 20230812145954](../Images/Pasted%20image%2020230812145954.png)
     - **Wireless Modems:**
         - Include cellular modems and Wi-Fi hotspots.
         - Allow devices to connect to the internet using cellular networks or Wi-Fi signals.
         - Commonly used for mobile internet access.
-        ![[Pasted image 20230812150242.png]]
+        ![Pasted image 20230812150242](../Images/Pasted%20image%2020230812150242.png)
 - **Modem Functions:**
     - **Modulation:** Converts digital data into analog signals for transmission.
     - **Demodulation:** Converts incoming analog signals back into digital data.

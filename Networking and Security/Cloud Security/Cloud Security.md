@@ -21,4 +21,4 @@ Hybrid clouds blend public and private cloud services. Security concerns paralle
 
 By understanding these distinctions, organizations can tailor their security measures to their chosen cloud deployment model and effectively protect their data and resources.
 
-![[Pasted image 20230816152154.png]]
+![Pasted image 20230816152154](../Images/Pasted%20image%2020230816152154.png)

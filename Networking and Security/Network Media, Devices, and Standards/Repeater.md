@@ -2,7 +2,7 @@
     
     - A repeater is a basic networking device used to extend the range of a network by regenerating or amplifying signals.
     - It operates at the physical layer (Layer 1) of the OSI model.
-![[Pasted image 20230812170936.png]]
+![Pasted image 20230812170936](../Images/Pasted%20image%2020230812170936.png)
 - **Functionality:**
     
     - **Signal Regeneration:** A repeater receives a weak or degraded signal, amplifies it, and retransmits it at a higher power level.

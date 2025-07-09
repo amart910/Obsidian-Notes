@@ -2,7 +2,7 @@
     - A hub is a basic networking device used to connect multiple computers in a local area network (LAN).
     - It operates at the physical layer (Layer 1) of the OSI model.
     - Hubs are less common in modern networks due to the prevalence of more advanced devices like switches.
-    ![[Pasted image 20230812170230.png]]
+    ![Pasted image 20230812170230](../Images/Pasted%20image%2020230812170230.png)
 - **Types of Hubs:**
     
     - **Passive Hub:**

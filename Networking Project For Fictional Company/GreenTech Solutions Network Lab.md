@@ -82,5 +82,5 @@ Design and implement a secure, segmented network for GreenTech Solutions, a smal
 - VLAN 50: 192.168.50.1
 ### Network Diagram
 
-![[brave_screenshot_drive.google.com.png]]
+![brave_screenshot_drive.google.com](../Networking%20and%20Security/Images/brave_screenshot_drive.google.com.png)
 ## Implementation

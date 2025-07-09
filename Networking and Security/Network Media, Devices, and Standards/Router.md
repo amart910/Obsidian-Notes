@@ -1,7 +1,7 @@
 - **Router Basics:**
     - A router is a networking device that operates at the network layer (Layer 3) of the OSI model.
     - It connects different networks and directs data packets between them.
-    ![[router-gif.gif]]
+    ![router-gif](../Images/router-gif.gif)
 - **Functionality:**
     
     - **Routing:** Routers determine the best path for data packets to reach their destination using routing tables and algorithms.
@@ -12,7 +12,7 @@
     - **Home Routers:** Used in homes to connect multiple devices to the internet and each other.
     - **Enterprise Routers:** Used in larger networks to handle higher traffic loads and advanced routing protocols.
     - **Core Routers:** Handle large amounts of data traffic in the core of a network.
-![[Pasted image 20230812171426.png]]
+![Pasted image 20230812171426](../Images/Pasted%20image%2020230812171426.png)
 - **Advantages:**
     
     - **Network Segmentation:** Routers divide networks into segments, providing better security and performance.

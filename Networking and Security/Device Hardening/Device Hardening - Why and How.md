@@ -2,7 +2,7 @@
 
 Harden devices refers to the process of securing network devices, such as switches, routers, firewalls, and servers, by implementing a series of security measures. This is crucial because these devices have access to sensitive data and control over network resources. If these devices are compromised, attackers could gain unauthorized access to data, manipulate firewall rules, and cause potential harm to the network. Wireless networks are particularly susceptible, as attackers can exploit vulnerabilities from a distance. Hardening aims to mitigate these risks and ensure robust security.
 
-![[Pasted image 20230816155515.png]]
+![Pasted image 20230816155515](../Images/Pasted%20image%2020230816155515.png)
 
 ### **Harden Devices: How and Why?**
 

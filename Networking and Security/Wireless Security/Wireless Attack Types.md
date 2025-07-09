@@ -2,7 +2,7 @@
 
 Wireless network attacks, although challenging, can be mitigated with the right measures. Two notable attacks to address are Deauth Attacks and Fake Access attacks.
 
-![[Pasted image 20230816154807.png]]
+![Pasted image 20230816154807](../Images/Pasted%20image%2020230816154807.png)
 
 **Deauth Attack:** Deauth (Deauthentication) attacks are denial-of-service attacks that force clients off a wireless network. Attackers can achieve this without even being connected to the targeted network. The reasons for performing a Deauth attack include disrupting network access, forcing users to reconnect (potentially to an attacker's access point), and capturing handshake data for WPA hacking.
 

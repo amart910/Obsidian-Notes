@@ -1,8 +1,8 @@
 - This tutorial is for enabling Hyper-V and setting up a MS server VM to practice using Active Directory
 1. Go to the start menu and search for Turn Windows features on or off
-	1. ![[Pasted image 20250708172720.png]]
+	1. ![Pasted image 20250708172720](../Networking%20and%20Security/Images/Pasted%20image%2020250708172720.png)
 2. Enable Hyper-V in Windows Features and click OK.
-	1.![[Pasted image 20250708173013.png]]
+	1.![Pasted image 20250708173013](../Networking%20and%20Security/Images/Pasted%20image%2020250708173013.png)
 	1.  When prompted, click on reboot 
 3. Go to start menu and search for Hyper-V Manager and run it
 4. To create a new virtual machine (VM), click on NEW under the Actions Tab

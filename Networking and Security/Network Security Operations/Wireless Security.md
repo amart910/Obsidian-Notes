@@ -1,4 +1,4 @@
-![[Pasted image 20230816142845.png]]
+![Pasted image 20230816142845](../Images/Pasted%20image%2020230816142845.png)
 **Wi-Fi Security Protocols**
 
 **Learning Objectives:**

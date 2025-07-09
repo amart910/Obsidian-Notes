@@ -12,4 +12,4 @@
 3. Network Layer - This layer defines the logical transmission protocols for the whole network.
 	 - The main protocols used in this layer are internet protocol (IP), internet control message protocol (ICMP), and address resolution protocol (ARP)
 4. Network Interface Layer -  This layer establishes how data should be physically sent through the network.
-![[tcp-ip-model-layers-and-their-functions.png]]
+![tcp-ip-model-layers-and-their-functions](tcp-ip-model-layers-and-their-functions.png)

@@ -43,7 +43,7 @@
 
 ---
 
-**Data Flow in the [[Open Systems Interconnection (OSI)]] Model:**
+**Data Flow in the [Open Systems Interconnection (OSI)](../TCP-IP%20and%20OSI%20Models/Open%20Systems%20Interconnection%20(OSI).md) Model:**
 
 The OSI model has seven layers, each with a specific function:
 

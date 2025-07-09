@@ -2,7 +2,7 @@
     
     - A bridge is a network device that operates at the data link layer (Layer 2) of the OSI model.
     - It connects and segments LANs into smaller collision domains, improving overall network performance.
-    ![[Pasted image 20230812170725.png]]
+    ![Pasted image 20230812170725](../Images/Pasted%20image%2020230812170725.png)
 - **Functionality:**
     
     - **Segmentation:** Bridges divide a network into smaller segments, reducing collision domains and improving network efficiency.

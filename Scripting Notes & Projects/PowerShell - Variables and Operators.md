@@ -4,19 +4,19 @@
 	- to create a value, we must assign a value
 	- are referenced using a dollar sign `$` followed by a variable name 
 	- then you assign a value using an equal sign `=` followed by the value for the variable 
-	- ![[Pasted image 20250705171718.png]]
+	- ![Pasted image 20250705171718](../Networking%20and%20Security/Images/Pasted%20image%2020250705171718.png)
 	- variables names consist of alphanumeric characters
 		- are NOT case-sensitive and include spaces and special characters when enclosed in curly braces, `{}` 
 		- but the convention is using only alphanumeric characters and the underscore `_` character
 - **Variable reference** allows us to use or manipulate variables 
-	-  ![[Pasted image 20250705171953.png]]
+	-  ![Pasted image 20250705171953](../Networking%20and%20Security/Images/Pasted%20image%2020250705171953.png)
 	- Referencing the variable `my_string_variable` in the terminal prints out the value we assigned to it
 - **User Input** 
 	- A useful command to enable user input through the terminal
-	- ![[Pasted image 20250705172435.png]]
+	- ![Pasted image 20250705172435](../Networking%20and%20Security/Images/Pasted%20image%2020250705172435.png)
 	- above example will output the `-Prompt` string and then wait for the user to input a value and hit Enter. 
 		- the value will be stored in `$my_input` for use later
-	- ![[Pasted image 20250705173139.png]]
+	- ![Pasted image 20250705173139](../Networking%20and%20Security/Images/Pasted%20image%2020250705173139.png)
 #### Variable Types and Advanced Usage
 - common types of variables
 	- `Int`: integers like `2`, `-5`, `99`
@@ -29,18 +29,18 @@
 	- this is called dynamic typing
 	- Default type of any uninitialized variable is `$null`
 	- Appending `.GetType().Name` to the variable reference can determine a variable's datatype.
-	- ![[Pasted image 20250705175849.png]]
+	- ![Pasted image 20250705175849](../Networking%20and%20Security/Images/Pasted%20image%2020250705175849.png)
 		- the `GetType()` method returns the name and base property for a variable 
 		- accessing the `Name` property only returns the data type we desire
 		- variable's data type is `String`
 - **Constrained Variables**
 	- When initializing a variable, you can constrain it by specifying the type in brackets before referencing the variable
 	- Attempting to assign a value of another type results in an error if PS can't convert it
-	- ![[Pasted image 20250705180339.png]]
+	- ![Pasted image 20250705180339](../Networking%20and%20Security/Images/Pasted%20image%2020250705180339.png)
 - Create Multiple Variables
 	- PS can create multiple variables using one statement
 	- to initialize multiple variables with the same value:
-		- ![[Pasted image 20250705180501.png]]
+		- ![Pasted image 20250705180501](../Networking%20and%20Security/Images/Pasted%20image%2020250705180501.png)
 	- to assign multiple values to multiple variables:
-		- ![[Pasted image 20250705180617.png]]
+		- ![Pasted image 20250705180617](../Networking%20and%20Security/Images/Pasted%20image%2020250705180617.png)
 	- 

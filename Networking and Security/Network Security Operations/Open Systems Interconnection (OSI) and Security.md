@@ -1,4 +1,4 @@
-[[Open Systems Interconnection (OSI)]]
+[Open Systems Interconnection (OSI)](../TCP-IP%20and%20OSI%20Models/Open%20Systems%20Interconnection%20(OSI).md)
 
 **7 Layers of OSI for Network Security**
 

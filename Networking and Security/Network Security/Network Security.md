@@ -1,4 +1,4 @@
-**1. [[Network Security Fundamentals]]:**
+**1. [Network Security Fundamentals](Network%20Security%20Fundamentals.md):**
 
 - **Definition:** Policies and practices adopted to prevent unauthorized access, misuse, malfunction, or damage to network-accessible resources.
 - **Components:** Hardware (firewalls, IDS/IPS devices), software (antivirus, authentication systems), and network policies.
@@ -8,7 +8,7 @@
 
 ---
 
-**2. [[Vulnerabilities]]:
+**2. [Vulnerabilities](Vulnerabilities.md):
 
 - **Definition:** Weaknesses or gaps in a system's security measures which can be exploited.
 - **Types:** Software vulnerabilities, hardware vulnerabilities, network vulnerabilities.
@@ -18,7 +18,7 @@
 
 ---
 
-**3. [[Attacker Types]]:**
+**3. [Attacker Types](Attacker%20Types):**
 
 - **Script Kiddies:** Inexperienced attackers using pre-made tools.
 - **Hacktivists:** Attackers with a social or political agenda.
@@ -29,7 +29,7 @@
 
 ---
 
-**4. [[Common Threats and Attacks]]:**
+**4. [Common Threats and Attacks](Common%20Threats%20and%20Attacks.md):**
 
 - **Phishing:** Deceptive attempts to gather sensitive information using disguises.
 - **Denial of Service (DoS):** Overwhelming services to render them unavailable.
@@ -51,7 +51,7 @@
 
 ---
 
-**6.[[ Risk Mitigation]]:**
+**6.[ Risk Mitigation](%20Risk%20Mitigation):**
 
 - **Patching and Updates:** Regularly update software/hardware to fix known vulnerabilities.
 - **User Training:** Educate users about security best practices and threat recognition.
