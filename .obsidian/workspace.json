@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "34fcb2587623bca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "217e2d504290dfce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8619052f6b28aaa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC Analyst HTB notes/Incident Handling (IH).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Incident Handling (IH)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb766e5adc3b97c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f886107dbd7ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba0b26c7f0d9ded",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd43040452e7b7bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"SOC Analyst HTB notes/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "493f54f1bc0100bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c257426781007619",
+    "type": "split",
+    "children": [
+      {
+        "id": "9540ff61ac36767d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9b730ac7c876b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SOC ANALYST/EDR - Endpoint Detection and Response.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for EDR - Endpoint Detection and Response"
+            }
+          },
+          {
+            "id": "5a0881a0659b588c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SOC ANALYST/EDR - Endpoint Detection and Response.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from EDR - Endpoint Detection and Response"
+            }
+          },
+          {
+            "id": "145923e768ee9851",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d80d0f348759a62b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SOC ANALYST/EDR - Endpoint Detection and Response.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of EDR - Endpoint Detection and Response"
+            }
+          },
+          {
+            "id": "ab63d7e93ebf889a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c617482a7922cc9a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c031b421927761d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8619052f6b28aaa0",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled",
+    "SOC Analyst HTB notes/Incident Handling (IH).md",
+    "Networking and Security/Images/Pasted image 20250708205717.png",
+    "Active Directory Lab/Hyper-V MS Server Setup.md",
+    "Networking and Security/Images/Pasted image 20250708173013.png",
+    "Networking and Security/Images/Pasted image 20250708173000.png",
+    "Networking and Security/Images/Pasted image 20250708172720.png",
+    "Active Directory Lab/Active Directory Lab.md",
+    "Scripting Notes & Projects/PowerShell - Variables and Operators.md",
+    "Scripting Notes & Projects/PowerShell Basics.md",
+    "SOC Analyst HTB notes",
+    "SOC ANALYST/SOC Analyst Descriptions.md",
+    "SOC ANALYST/SOC Types and Roles.md",
+    "SOC ANALYST/SIEM and Analyst Relationship.md",
+    "SOC ANALYST/EDR - Endpoint Detection and Response.md",
+    "Networking and Security/Encryption/Encryption Overview.md",
+    "Networking and Security/Encryption/Encryption Techniques and Methods.md",
+    "Networking and Security/Encryption/Common Encryption Uses.md",
+    "Networking and Security/Device Hardening/Device Hardening - Why and How.md",
+    "Networking and Security/Cloud Security/Encryption - Data at Rest and Data in Transit.md",
+    "Networking and Security/Cloud Security/Data Security- Classification, Protection, and Access Control.md",
+    "Networking and Security/Cloud Security/Cloud Security.md",
+    "Networking and Security/Cloud Security/Application Security, Access Control, and Network Security.md",
+    "Networking and Security/Basic Network Commands.md",
+    "Networking and Security/Wireless Security/Wireless Network Infrastructure Modes.md",
+    "Networking and Security/Wireless Security/Security Standards.md",
+    "Networking and Security/Wireless Security/Wireless Attack Types.md",
+    "Networking Project For Fictional Company/GreenTech Solutions Network Lab.md",
+    "Networking and Security/Wireless Security/Wireless Security Protocols.md",
+    "Networking and Security/TCP-IP and OSI Models/TCP-IP and OSI models.jpg",
+    "Networking and Security/TCP-IP and OSI Models/OSI MODEL.png",
+    "Networking and Security/TCP-IP and OSI Models/OSI MODEL Example.png",
+    "Networking and Security/TCP-IP and OSI Models/tcp-ip-model-layers-and-their-functions.png",
+    "Networking and Security/TCP-IP and OSI Models/TCP-IP.md",
+    "Networking and Security/TCP-IP and OSI Models/OSI vs TCP IP.png",
+    "Networking and Security/Images/Pasted image 20250705170746.png",
+    "Scripting Notes & Projects",
+    "Active Directory Lab",
+    "Networking and Security/Images/GreenTech Network Topology.xml",
+    "Networking Project For Fictional Company",
+    "Router set up",
+    "SOC ANALYST",
+    "Untitled.canvas",
+    "Pentest",
+    "Networking and Security/Untitled.canvas",
+    "Networking and Security/Untitled",
+    "Networking and Security/Network Security/Untitled.canvas"
+  ]
+}

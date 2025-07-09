@@ -1,0 +1,37 @@
+- PowerShell is a command-line shell and scripting language that can run individual commands within the terminal as well as create and execute more complex scripts.
+	- Useful when automating computer administration tasks
+- Popular tool for automating Windows operating system tasks
+- PowerShell commands are called *CmdLets* 
+	- Their names are given a *"Verb"-"Noun"* command format
+		- `Get-Date`
+		- ![[Pasted image 20250705162745.png]]
+		- `Write-Host`
+		- ![[Pasted image 20250705162418.png]]
+		- `Get-Command` 
+			- will output all available *Cmdlets*
+			- can use arguments such as `-Verb Get`, which will find all Get commands
+				- or `-Noun Host` for specific Nouns
+				- ex: `Get-Command -Verb Get`, or `Get-Command -Noun Host`
+		- `Clear-Host` will clear the terminal
+- **Command Completion**
+	- If you type a few letters of a command and then press `Tab` key, the terminal will autocomplete
+		- If more than one command matches the partial command such as `Get-H`, `Tab` will list possible commands
+		- ![[Pasted image 20250705164121.png]]
+- **Command History** is stored in a file in most modern terminals
+	- can be accessed using `Get-History` 
+	- You can also use up and down keys to cycle through command history
+#### Writing Scripts
+- To perform complex tasks requiring multiple commands, a PowerShell script is needed
+- To run a script, we open any text editor, write our commands and name the file with a `.ps1` file extension. 
+- The following commands are put into a script file called **host-commands.ps1**
+- ![[Pasted image 20250705170121.png]]
+- You can run the script in the terminal using **.\host-commands.ps1**
+- ![[Pasted image 20250705170246.png]]
+- The result will be:
+- ![[Pasted image 20250705170315.png]]
+- The **.\ notation before the script name tells the shell to look for a file in the current directory and run it.
+	- In most shells forward slash notation **./** can be used
+- Another example script:
+- ![[Pasted image 20250705170702.png]]
+- Output:
+- ![[Pasted image 20250705170746.png]]

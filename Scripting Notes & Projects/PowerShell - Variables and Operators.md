@@ -1,0 +1,46 @@
+- Regardless of our use case, one inevitable aspect of programming is storing and manipulating data to serve our needs.
+- **Variables** are used to store a piece of data
+	- can store the results of commands like values, names, paths, and settings
+	- to create a value, we must assign a value
+	- are referenced using a dollar sign `$` followed by a variable name 
+	- then you assign a value using an equal sign `=` followed by the value for the variable 
+	- ![[Pasted image 20250705171718.png]]
+	- variables names consist of alphanumeric characters
+		- are NOT case-sensitive and include spaces and special characters when enclosed in curly braces, `{}` 
+		- but the convention is using only alphanumeric characters and the underscore `_` character
+- **Variable reference** allows us to use or manipulate variables 
+	-  ![[Pasted image 20250705171953.png]]
+	- Referencing the variable `my_string_variable` in the terminal prints out the value we assigned to it
+- **User Input** 
+	- A useful command to enable user input through the terminal
+	- ![[Pasted image 20250705172435.png]]
+	- above example will output the `-Prompt` string and then wait for the user to input a value and hit Enter. 
+		- the value will be stored in `$my_input` for use later
+	- ![[Pasted image 20250705173139.png]]
+#### Variable Types and Advanced Usage
+- common types of variables
+	- `Int`: integers like `2`, `-5`, `99`
+	- `Float`: decimal numbers like `2.1`, `0.9`, `14.06`
+	- `String`: zero or more characters enclosed in double quotes like
+		- `"Codecademy"`, `"3X4mP|3"`
+	- `Boolean`: two possible values: `$True` and `$False`
+	- `Array`: a collection of items like `25, "red", $False, 16.30`
+- PowerShell assigns a type depending on the value assigned
+	- this is called dynamic typing
+	- Default type of any uninitialized variable is `$null`
+	- Appending `.GetType().Name` to the variable reference can determine a variable's datatype.
+	- ![[Pasted image 20250705175849.png]]
+		- the `GetType()` method returns the name and base property for a variable 
+		- accessing the `Name` property only returns the data type we desire
+		- variable's data type is `String`
+- **Constrained Variables**
+	- When initializing a variable, you can constrain it by specifying the type in brackets before referencing the variable
+	- Attempting to assign a value of another type results in an error if PS can't convert it
+	- ![[Pasted image 20250705180339.png]]
+- Create Multiple Variables
+	- PS can create multiple variables using one statement
+	- to initialize multiple variables with the same value:
+		- ![[Pasted image 20250705180501.png]]
+	- to assign multiple values to multiple variables:
+		- ![[Pasted image 20250705180617.png]]
+	- 
