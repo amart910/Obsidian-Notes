@@ -1,3 +1,4 @@
+### PowerShell - Variables and Operators
 - Regardless of our use case, one inevitable aspect of programming is storing and manipulating data to serve our needs.
 - **Variables** are used to store a piece of data
 	- can store the results of commands like values, names, paths, and settings
@@ -43,4 +44,22 @@
 		- ![Pasted image 20250705180501](../Networking%20and%20Security/Images/Pasted%20image%2020250705180501.png)
 	- to assign multiple values to multiple variables:
 		- ![Pasted image 20250705180617](../Networking%20and%20Security/Images/Pasted%20image%2020250705180617.png)
-	- 
+### Environmental Variables (EV)
+- store information related to the current environment
+	- like OS and user sessions
+	- can be accessed across commands and programs
+	- OS usually creates them but can be configured 
+	- benefits include that data stays consistent across processes
+- ##### List Environment Variables
+	- are stored as strings
+	- use `Get-ChildItem` cmdlet on the `Env:` drive for complete list of existing environment variables
+	- ![Pasted image 20250709140429](../Networking%20and%20Security/Images/Pasted%20image%2020250709140429.png)
+	- to get the specific value of an EV use either:
+	- ![[../Networking and Security/Images/Pasted image 20250709140614.png]]
+	- Two popular variables in PowerShell are `HOME` and `PATH` 
+		- `HOME` specifies current user's home directory
+		- `PATH` includes all the directories where applications look for executables
+#### Create an Environment Variable (EV)
+- to create one the syntax is as follows
+	- ![[../Networking and Security/Images/Pasted image 20250709190609.png]]
+- by convention, EV names are usually capitalized 

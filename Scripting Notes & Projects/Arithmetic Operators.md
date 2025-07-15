@@ -1,0 +1,23 @@
+### Arithmetic Operators
+- perform specific operations on data, often stored in a variable 
+- types of operators
+	- Assignment Operators
+	- Unary Operators
+	- Comparison Operators
+	- Logical Operators 
+- **Arithmetic Operators** `+`, `-`, `*`, `/`, `%`
+	 - are binary meaning they require two operands
+		 - `<Operand_1> <Arithmetic-Operator> <Operand 2>`
+	 - Are best utilized with variables
+		 - ![[../Networking and Security/Images/Pasted image 20250710204153.png]]
+	 - `+` (Addition): adds numbers and concatenates strings
+	 - `-` (Subtraction): subtracts or negates numbers
+	 - `*` (Multiplication): multiplies numbers or copies strings a specified number of times
+	 - `/` (Division): divides numbers
+	 - `%` (Modulus): returns the remainder of a division operation
+	 - ![[../Networking and Security/Images/Pasted image 20250710203902.png]]
+- **Arithmetic Operators on Strings**
+	- manipulates strings using `+` addition and `*` multiplication operators
+	- `+` concatenates strings
+	- `*` copies strings a specified amount of times
+	- ![[../Networking and Security/Images/Pasted image 20250710204514.png]]

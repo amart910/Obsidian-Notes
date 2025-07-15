@@ -1,0 +1,22 @@
+#### Incident Handling Process
+- like the cyber kill chain, there are different stages when responding to an incident 
+- defines the capability for organizations to prepare, detect, and respond to malicious events
+- suited for responding to IT security events
+- stages do not correspond to stages of cyber kill chain
+- As defined by NIST, the incident handling process consists of the following 4 distinct stages
+- ![[../Networking and Security/Images/Pasted image 20250714225036.png]]
+- incident handlers spend most of time in **preparation and detection & analysis**
+- when malicious event is detected we move on to the next stage and respond
+	- but there should always be resources on the first 2 stages
+	- process is not linear but cyclic
+	- as new evidence is discovered, the next steps may change
+- incident handling has two main activities, **Investigating and Recovering**
+	- **Investigation** aims to
+		- discover initial attack vectors(patient zero) and create an incident timeline
+		- determine what tools and malware was used
+		- document compromised systems and what adversary has done
+	- **Recovery** follows after the investigation
+		- involves creating and implementing recovery plan
+		- business should resume if incident caused disruptions
+- after incident is handled a report is issued, detailing cause and cost
+- lessons learned activities are performed to prevent future incidents

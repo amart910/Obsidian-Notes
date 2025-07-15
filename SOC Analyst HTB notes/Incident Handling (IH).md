@@ -1,6 +1,6 @@
 ## Incident Handling Definition & Scope
 - IH has become an important part of an organization's defensive capability against cybercrime.
-- is a necessity for any organization that cannot afford a compromise in its data CIA
+- Is a necessity for any organization that cannot afford a compromise in its data CIA
 - can be in-house or third party provider (continuously or when needed)
 - An **event** is an action occurring in a system or network e.g. 
 	- a user sending an email
@@ -21,4 +21,3 @@
 	- includes: 
 		- malicious insiders, availability issues, and loss of intellectual property
 - a comprehensive incident handling plan should provide appropriate measures to identify, contain, eradicate, and recover from various incidents to restore normal business operations a.s.a.p
-- 

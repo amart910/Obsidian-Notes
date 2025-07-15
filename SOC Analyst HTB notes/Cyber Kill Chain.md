@@ -1,0 +1,50 @@
+#### What is the Cyber Kill Chain?
+- describes how attacks manifest themselves
+- it consists of seven (7) different stages
+- ![[../Networking and Security/Images/Pasted image 20250714221116.png]]
+- (1) **Recon** is the initial stage
+	- is when attacker chooses a target
+	- then performs information gathering
+	- some attackers use passive information gathering from web sources 
+		- e.g. LinkedIn, Instagram, documentation on target organization's web pages
+		- job pages and company partners often reveal info about tech utilized by target org
+		- can provide extremely specific info about antivirus tools, OSs, and networking technologies
+	- attackers can also use active reconnaissance by actively scanning external web apps and IP addresses associated with the target
+- (2) **Weaponize** 
+	- malware used for initial access is developed and embedded into an exploit or deliverable payload
+	- malware is crafted to be lightweight and undetectable
+	- sole purpose is to provide remote access to a compromised machine in target environment 
+		- also can persist through machine reboots and ability to deploy additional tools
+- (3) **Delivery**
+	- the exploit or payload is delivered to the victim(s). 
+	- e.g. phishing emails that contain a malicious attachment or a link to a web page
+		- web page could mimic legit website used by victim to enter credentials and collect them or deliver a payload avoiding email scanning tools
+		- some attackers use social engineering to convince victim to run the payload
+- (4) **Exploitation**
+	- exploit or a delivered payload is triggered 
+	- attacker attempts to execute code on target system in order to gain access or control
+- (5) **Installation**
+	- initial stage is executed and is running on compromised machine
+	- may be carried out in various ways, depending on attackers goals and nature of compromise
+	- Some common techniques used:
+		- Droppers: a small piece of code designed to install malware on the system and execute it
+			- may be delivered thru email attachments, malicious websites, or social engineering tactics
+		- Backdoors: type of malware designed to provide attacker ongoing access to compromised machine
+			- may be installed during exploitation or delivered thru dropper
+			- can be used to execute further attacks or steal data
+		- Rootkits: type of malware designed to evade antivirus detection and other security tools
+- (6) **Command and Control**
+	- attacker establishes remote access capability to compromised machine
+	- not uncommon to use a modular initial stager that loads additional scripts 'on-the-fly' 
+	- advanced groups would utilize separate tools to ensure multiple variants of their malware persists in compromised network
+		- even if one gets discovered and contained, they have means to return
+- (7) **Action**
+	- objective of the attack
+	- can vary
+	- e.g. exfiltrating confidential data
+		- obtaining highest level access to deploy ransomware
+		- ransomware - type of malware that renders all data stored on endpoint devices and servers unusable or inaccessible unless a ransom is paid
+- adversaries won't operate in linear manner 
+- some stages will be repeated 
+	- e.g. installation stage of an attack can initiate a recon stage again to identify additional targets and find vulnerabilities
+- 
